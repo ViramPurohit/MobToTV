@@ -1,8 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="021d261e-b871-40e6-a1f1-b8a58840483b" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="021d261e-b871-40e6-a1f1-b8a58840483b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/ShaadiApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/api/ApiService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/api/ShaadiRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/api/UserListState.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/base/AutoClearedValue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/base/BaseActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/base/BaseApiResponse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/base/BaseBindingFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/base/BaseFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/base/BaseModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/base/BaseRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/base/BaseViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/base/Extensions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/db/ShaadiDb.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/db/ShaadiUserDao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/db/ShaadiUsers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/di/ActivityScope.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/di/AppComponent.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/di/CustomViewModelFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/di/ViewModelKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/di/ViewModelModule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/di/modules/ActivityBuilderModule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/di/modules/AppModule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/di/modules/FragmentBuilderModule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/matches/MatchListFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/matches/MatchListViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/model/UserListResponse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/java/shaadi/com/utils/Common.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/res/drawable/ic_location_on.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/res/drawable/ic_man.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/res/layout/fragment_match_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/res/layout/shaadi_users_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingChallenge/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/CodingChallenge_/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/adapter/UserListAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/adapter/ShaadiUserListAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/api/ApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/api/ApiService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/api/ShaadiRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/api/ShaadiRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/base/AppExecutors.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/base/BaseActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/base/BaseActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/base/BaseBindingFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/base/BaseBindingFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/base/BaseFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/base/BaseFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/db/Converters.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/db/ShaadiDb.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/db/ShaadiDb.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/db/ShaadiUserDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/db/ShaadiUserDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/di/modules/AppModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/di/modules/AppModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/matches/MatchListActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/matches/MatchListActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/matches/MatchListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/matches/MatchListFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/matches/MatchListSubcomponent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/matches/MatchListViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CodingChallenge_/app/src/main/java/shaadi/com/matches/MatchListViewModel.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,33 +73,17 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectId" id="1iT3PYwoklFiN2SPGY8TiD2I3T4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="G:/Sdk" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -64,27 +97,5 @@
       <updated>1578740731092</updated>
     </task>
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32980332" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Build Variants" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Resources Explorer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Captures" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Palette&#9;" />
-    </layout>
   </component>
 </project>
